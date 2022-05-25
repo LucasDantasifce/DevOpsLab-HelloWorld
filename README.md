@@ -1,6 +1,5 @@
 # Trilha DevOps da 4Linux
 
-
 ![Pipeline Status](https://github.com/<LucasDantasifce>/DevOpsLab-HelloWorld/actions/workflows/pipeline.yml/badge.svg) 
 
 
