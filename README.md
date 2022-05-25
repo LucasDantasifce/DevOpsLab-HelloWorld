@@ -1,6 +1,6 @@
 # Trilha DevOps da 4Linux
 
-<!-- Altere a Flag abaixo com sua URL do seu usuár
+
 ![Pipeline Status](https://github.com/<LucasDantasifce>/DevOpsLab-HelloWorld/actions/workflows/pipeline.yml/badge.svg) 
 
 
